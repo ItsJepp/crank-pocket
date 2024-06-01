@@ -1,8 +1,8 @@
-﻿name=Crank Pocket
+﻿buildNumber=1
+name=Crank Pocket
 author=Jepp
 description=A first attempt at working with the Playdate SDK for a Back Pocket ad.
 bundleID=com.jepp.crankpocket
 version=1.0
-buildNumber=1
 imagePath=images/launcher
 launchSoundPath=sounds/wipe
